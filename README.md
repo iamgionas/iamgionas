@@ -4,4 +4,4 @@ My name is Gionas, I am a Software Engineer currently working as a Full Stack De
 
 I was born and I work in 🇨🇭 
 
-[mail](mailto:hello@gionas.dev)
+[📨](mailto:hello@gionas.dev)
