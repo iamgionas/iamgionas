@@ -2,7 +2,7 @@
 
 My name is Gionas, I'm 25 years old, and I'm a Software Engineer currently working as a Full Stack Developer.
 
-I'm passionate about technology 💻 and coding 👨🏼‍💻.
+Tech addicted 💻 and in love with coding 👨🏼‍💻.
 
 I was born, I live, and I work in Switzerland 🇨🇭
 
