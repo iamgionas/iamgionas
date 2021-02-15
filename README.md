@@ -7,5 +7,3 @@ Tech addicted 💻 and in love with coding 👨🏼‍💻.
 I was born, I live, and I work in Switzerland 🇨🇭
 
 [📨 email](mailto:hello@gionas.dev)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gionasdev)](https://github.com/anuraghazra/github-readme-stats)
