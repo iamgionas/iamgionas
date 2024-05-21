@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gionas. 
+### Hi there 👋 I'm Gionas 👨🏼‍💻
 
 I’m 29 years old, a Software Engineer passionate about all things tech and innovation 🤖💻. I was born, live, and work in Switzerland 🇨🇭.
 
